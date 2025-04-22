@@ -134,7 +134,7 @@ const projects = [
     img: cloud,
     carousel: [cloud1, cloud2, cloud3],
     source_link: 'https://github.com/sunidhi-panigrahi/File-Sharing',
-    live_link: 'https://github.com/sunidhi-panigrahi/Background_Remover',
+    live_link: 'https://file-sharing-lilac-six.vercel.app/sign-in',
   },
 ];
 
